@@ -25,6 +25,13 @@ public class Main {
         System.out.println("r3 = " + r3);
         System.out.println("r4 = " + r4);
 
+        System.out.println("d04 dia = "+ d04.getDayOfMonth());
+        System.out.println("d04 mês = "+ d05.getMonthValue());
+        System.out.println("d04 ano = " + d04.getYear());
+
+        System.out.println("d05 hora = " + d05.getHour());
+        System.out.println("d05 min = " + d05.getMinute());
+
 
     }
 }
